@@ -109,6 +109,4 @@ This project is licensed under the GNU GPL v3.0 License - see the [LICENSE](LICE
 For any inquiries or issues, please contact:
 - **Pritesh Gandhi**
 - **Email**: pgandhi1412@gmail.com
-- **GitHub**: [YourGitHubProfile](https://github.com/Devil-Code)
-  
----
+- **GitHub**: [GitHubProfile](https://github.com/Devil-Code)
